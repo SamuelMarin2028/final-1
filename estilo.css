@@ -1,0 +1,35 @@
+.o
+{
+	position: absolute;
+	top: 10%;
+	left: 4%;
+	width: 30%;
+	height: 20%;}
+.o1
+{
+	position: absolute;
+	top: 95%;
+	left: 4%;
+	width: 10px;
+	height: 30px;}
+	.o2
+{
+	position: absolute;
+	top: 180%;
+	left: 4%;
+	width: 10px;
+	height: 30px;}
+	.til
+	{
+	position: absolute;
+	top: 10%;
+	left: 48%;
+	width: 40%;
+	height: 50%;
+	text-align: center;
+	text-decoration: none;
+	border:#0B102C 5px dotted;
+	border-radius: 50px;
+	color: blak;
+   
+}
