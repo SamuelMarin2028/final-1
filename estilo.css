@@ -33,3 +33,17 @@
 	color: blak;
    
 }
+.lo{
+
+position: absolute;
+	top: -40%;
+	left: 10%;
+	width: 50%;
+	height: 30%;
+	text-align: center;
+	font-size: 33px;
+	text-decoration: none;
+border: #242C54 5px outset;
+ 
+
+}
